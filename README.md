@@ -1,2 +1,2 @@
-# MEAN-Stack
-Mariadb Expressjs Angularjs Nodejs Stack
+# M.E.A.N-Stack
+MongoDB Expressjs Angularjs Nodejs - Stack
