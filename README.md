@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MEANBlog
 A blog application with user authentication using the MEAN stack and MEAN.js
 
@@ -33,3 +34,7 @@ $ grunt prod
 ```
 
 * explore `config/env/production.js` for production environment configuration options
+=======
+# M.E.A.N-Stack
+MongoDB Expressjs Angularjs Nodejs - Stack
+>>>>>>> fd3d452f9c1ba156f844696cd9c87c42b7c7f276
