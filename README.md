@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-# MEANBlog
-A blog application with user authentication using the MEAN stack and MEAN.js
+
+# M.E.A.N-Stack
+MongoDB Expressjs Angularjs Nodejs - Stack
+A simple blog application with user authentication using the MEAN stack and MEAN.js
 
 ## Prerequisites
 You need Node.js and MongoDB installed on your client machine. You also need to install the following dependencies globally
@@ -14,11 +15,11 @@ To install Node.js dependencies you're going to use npm again. In the applicatio
 ```bash
 $ npm install
 ```
-
-## Running The Application
+ ## Running The Application
 After the install process is over, you'll be able to run your application using Grunt, just run grunt default task:
 
 ```
+$ bower install --allow-root
 $ grunt
 ```
 
@@ -35,6 +36,5 @@ $ grunt prod
 
 * explore `config/env/production.js` for production environment configuration options
 =======
-# M.E.A.N-Stack
-MongoDB Expressjs Angularjs Nodejs - Stack
->>>>>>> fd3d452f9c1ba156f844696cd9c87c42b7c7f276
+
+
